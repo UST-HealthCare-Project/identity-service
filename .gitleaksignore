@@ -1,0 +1,3 @@
+# Synthetic test-only passwords (not real credentials), flagged by the generic-api-key rule.
+f3749ed8bd6ee64543503d9876ca339e3caca293:tests/test_passwords.py:generic-api-key:3
+f3749ed8bd6ee64543503d9876ca339e3caca293:tests/conftest.py:generic-api-key:26
